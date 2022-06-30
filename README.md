@@ -25,3 +25,8 @@
   <a href = "mailto:allankardec.ak12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allan-kardec-nascimento-carneiro-7526a6187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/cMwudvuj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
+  
+  </div>
+  
+  ![Snake animation](https://github.com/akardec12/akardec12/blob/output/github-contribution-grid-snake.svg)
