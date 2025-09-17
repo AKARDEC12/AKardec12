@@ -1,9 +1,8 @@
 ## Eai!! Eu sou o Allan Kardec
 
-- 🔭 Hoje em dia não exerço nenhuma profissão
-- 📚 Atualmente estou focado no estudo de Front-End
+- ⚡ Técnico em Eletromecânica
+- 📚 Atualmente estou focado no estudo Cibersegurança
 - 💻 Estou à procura de me inserir neste mercado
-- ⚡ Sou formado em Eletromecânica
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
